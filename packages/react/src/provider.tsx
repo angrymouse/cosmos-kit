@@ -37,7 +37,7 @@ export const ChainProvider = ({
   walletModal,
   modalTheme,
   wrappedWithChakra = false,
-  defaultNameService = 'icns',
+  defaultNameService = 'neutral',
   walletConnectOptions,
   signerOptions,
   endpointOptions,
